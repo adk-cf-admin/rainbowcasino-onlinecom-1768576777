@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://rainbowcasino-online.com/
+Sitemap: https://rainbowcasino-online.com/sitemap.xml

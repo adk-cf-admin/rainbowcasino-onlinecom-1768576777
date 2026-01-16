@@ -1,0 +1,201 @@
+{
+    "en-UK": {
+        "styles": {
+            "bg": "#E6E6E6",
+            "lang-select-color": "#222829",
+            "bg-light": "#222222",
+            "welcome-bonus-bg": "#1b1818",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#161313",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#DFBB4B",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#D2232A",
+            "yellow": "#DFBB4B",
+            "yellow-button": "#D2232A",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#222222",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#3c3c3e",
+            "pay-back": "#deeadf",
+            "providers-back": "#222222",
+            "faq-label": "#222222",
+            "bg-footer": "#1b1818",
+            "copyright": "#e7e7d5",
+            "starColor": "#DFBB4B",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Rainbow Casino",
+            "title": "Rainbow Casino: roulette, blackjack, jackpot slots and a late-night atmosphere",
+            "description": "Discover Rainbow Casino with live tables and electronic games, popular jackpot slots, a bar, sport on screens, and late opening hours. Learn about entry rules, stake ranges, special offers, and how to get the best value from your visit.",
+            "canonical": "rainbowcasino-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1768",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "rainbowcasino-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1769",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1770"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1772",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Rainbow Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Rainbow Casino — games, jackpots, bar and nightlife",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1773",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1774",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Big jackpots on popular slots every day",
+                "Membership gaming vouchers and welcome offers",
+                "Wide choice of roulette, blackjack, poker",
+                "Fast electronic roulette with flexible stakes",
+                "Regular free bet deals and game promos",
+                "Late-night vibe with bar and sport",
+                "Easy access location and clear entry rules"
+            ],
+            "advantagesAfterText": "Rainbow Casino stands out for mixing classic dealer tables with modern machines while keeping a friendly, boutique feel. It’s set up for a full night out: drinks first, slots next, then a few lively hands at the tables.\n",
+            "knowMore": "Know more",
+            "appTitle": "Rainbow Casino App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1775",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Rainbow Casino App",
+            "mobileGooglePlayImageTitle": "Rainbow Casino App",
+            "mobileIosImageTitle": "Rainbow Casino App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Rainbow Casino",
+                "description1": "What sets the casino apart is the blend of live tables and electronic terminals in one easy-flow venue. The experience is rounded out by a club-style bar, sport on screens, and frequent themed nights.\n",
+                "items": [
+                    "Jackpots up to £20,000.",
+                    "New member vouchers: £90+.",
+                    "Free bets and promos: £5–£20."
+                ],
+                "description2": "Rainbow Casino brings together classic gambling favourites and a modern night-out feel. Inside, the pace is lively, with smooth movement between tables and the slots area. It suits both first-timers and seasoned players thanks to accessible formats and helpful staff. \n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1776",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Many guests start with a drink at the bar before heading onto the gaming floor. The venue typically offers a mix of dealer-led games and electronic terminals. The entertainment calendar often adds extra energy through themed activity. Regular visitors can benefit from ongoing offers and member-style perks. The overall impression leans towards a boutique, club-like atmosphere. Entry is usually straightforward as long as you follow the house rules and carry suitable ID. Overall, Rainbow Casino works well as an easy, all-in-one destination for gaming and social nightlife."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Rainbow Casino Atmosphere — games, nightlife, and downtime in one place",
+                "description": "<p>\nRainbow Casino is commonly experienced as a boutique-style venue with a club-like character: less of a crowd “throughput” feel and more of a cosy, social vibe. The interior often blends low lighting, bright machine displays, and a classic live-table floor that feels lively without being overwhelming. That balance works well for both quick sessions and longer nights with breaks for drinks and conversation. As the evening goes on, the energy typically rises and the venue feels more social, with guests moving between tables, slots, and seating areas.\n\n<\/p>\n<br>\n\n\n<p>\nIn terms of opening hours, Rainbow Casino is designed for late-night entertainment, so it is commonly open daily from daytime into the early hours. This makes it convenient for after-work plans where dinner, drinks, and gaming fit naturally into one evening. Weekends and busier periods often bring a faster pace and fuller live-game floors. On holidays and during major sporting events, timings and activity can shift, giving visitors a flexible night-out format.\n<\/p>\n<br>\n<p>\nThe bar element is a key part of the experience, with Rainbow Casino placing real focus on giving guests a comfortable reset point between rounds. The bar often acts as the social hub where people chat about the action, watch sport on screens, and unwind away from the machine noise. Depending on the venue, there may be a main bar plus a late bar area with calmer seating. Drinks, light bites, and relaxed seating help keep the night smooth and enjoyable.\n\n<\/p>\n<br>\n<p>\nWhen it comes to hotels, Rainbow Casino typically relies on nearby accommodation options rather than running an on-site hotel. This is practical for anyone who wants to stay overnight after late play. You’ll usually find a range of hotels within easy reach, from no-fuss stays to more boutique choices. That setup lets visitors pick a stay that matches budget and style without being locked into a single property.\n\n<\/p>\n<br>\n<p>\nEvents and entertainment frequently revolve around sport, themed nights, and gaming-floor activity. Big-match screenings, bar-led evening specials, and game-specific promotions add a sense of occasion. Bonus-style incentives are commonly delivered through membership perks, gaming vouchers, and seasonal offers. Overall, Rainbow Casino feels like a complete night-out destination where gaming is part of a wider entertainment package rather than the only reason to visit.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nService and cash-out at Rainbow Casino — staff, payments, currency, and collecting winnings\n<\/h3>\n\n<p>\nRainbow Casino staff commonly operate with a welcoming, club-style approach: front-of-house teams help with entry and registration, while floor staff guide guests through games and table availability. Dealers tend to run live games with clear, steady pacing, and the team on the floor can help players choose comfortable stake levels. For newcomers, it’s useful that questions feel easy to ask, from roulette basics to how electronic terminals work. This service style helps the venue feel relaxed even when it gets busy.\n\n<\/p>\n<br>\n\n\n<p>\nThe main language of communication is English, and in larger cities you may also find staff who understand basic phrases in other widely used languages. When guests need clarity on membership, offers, or cash-out steps, staff typically explain things in straightforward terms. At live tables, communication is practical and game-focused, covering bets, round actions, and house procedures. In the bar areas the interaction is more informal, adding to the “local club” feel. If you prefer minimal interaction, electronic games allow for near self-service play.\n\n<\/p>\n<br>\n<p>\nThe primary working currency is pounds sterling, and this is how stakes, chip exchange, and cash-outs are generally handled. Payments at land-based casinos are typically supported through a mix of cash and bank cards, though exact options can vary by cashier policy. In many cases debit cards and contactless payments are available, but gambling-related transactions can be restricted depending on your bank. For that reason, many guests use cash or withdraw on-site.\n\n<\/p>\n<br>\n<p>\nATMs are commonly placed in accessible areas so guests don’t need to leave the venue. If you need change or a quick breakdown of notes, the cashier is usually the place to sort it: staff can help exchange cash for chips or convert machine vouchers into cash. Full currency exchange services are not always offered, so visitors who need conversions often do that in town beforehand. Inside, the focus is on fast, clear handling of pounds and gaming funds.\n\n<\/p>\n<br>\n<p>\nCollecting winnings typically happens at the cashier: you exchange chips or machine tickets for cash, and larger payouts may trigger an ID check. For security and internal compliance, the casino may ask for identification and sometimes basic funding details, especially for repeated or high-value transactions. In practice, it’s a standard routine: confirm identity, record the amount, and pay out using the methods allowed at that cashier. If you expect higher-stakes play, bring suitable ID to keep the process smooth.\n\n<\/p>\n<br>\n<p>\nAs a general rule, visitors are not typically taxed at the point of payout, meaning winnings are paid in full and the cashier does not withhold tax for one-off winnings. That said, personal circumstances can vary, so anyone managing complex finances may wish to take independent advice for their situation. It’s also worth noting that ID requests are more about security and responsible gambling procedures than taxation. Overall, the process is simple: play, confirm your result, and collect at the cashier under clear house rules.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nVisiting Rainbow Casino — dress code, entry rules, restrictions, parking, and getting there\n<\/h3>\n\n<p>\nA Rainbow Casino visit typically starts with age checks and basic house rules. Entry is adults-only, and on a first visit or if age is in doubt you may be asked for valid ID. The dress code is usually smart casual, meaning you should look neat and respectful to other guests. On the gaming floor, you’re expected to follow table etiquette, avoid distracting dealers, and respect other players. Phone use near live tables is commonly restricted to protect game integrity and guest privacy. Photography and filming at tables are generally not allowed, especially if staff or other customers could be captured. Responsible gambling principles apply, and service may be refused if someone is clearly intoxicated or disruptive. A smoother visit comes from setting a budget and knowing which games you want to try. It’s also sensible to check whether membership is required at that specific venue, as rules can vary. Getting there is usually straightforward by taxi, public transport, or car, with nearby parking options depending on location. If you’re visiting late, planning your return trip in advance is a good idea, particularly around early-morning closing times.\n\n<\/p>\n<br>\n\n\n <ul>\n            <li>• \nAge & ID: 18+ only; ID required if requested or registering.\n\n<\/li>\n            <li>• \nDress code: smart casual; neat clothing and footwear recommended.\n\n<\/li>\n            <li>• \nFloor etiquette: respectful behaviour, no arguments or disruption.\n\n<\/li>\n            <li>• \nPhones at tables: typically not permitted near live tables.\n\n<\/li>\n\t    <li>• \nPhotos\/videos: generally restricted in gaming areas and at tables.\n\n<\/li>\n\t    <li>• \nAlcohol: service may be limited if visibly intoxicated.\n\n<\/li>\n\t    <li>• \nProhibited conduct: anything that interferes with fair play or staff duties.\n\n<\/li>\n\t    <li>• \nMembership: may be required at some venues and is usually free.\n\n<\/li>\n\t    <li>• \nParking: on-site or nearby paid parking depending on the venue.\n\n<\/li>\n\t    <li>• \nGetting there: taxis and public transport work well late; drivers should follow sat-nav.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRainbow Casino Loyalty Programme — tiers, rewards, and how to get the most value\n<\/h3>\n\n<p>\nRainbow Casino’s loyalty programme is designed to reward repeat visits and increase the value of every session. It typically starts with free registration, after which players receive entry-level perks such as gaming vouchers and bar or dining offers. This format works well for newcomers because some benefits arrive immediately while others build over time. The structure is often linked to activity, meaning more frequent visits and higher overall play unlock stronger perks. The key point is simplicity: you play your usual games and rewards are tracked automatically through your member card.\n\n<\/p>\n<br>\n\n\n<p>\nA tiered system is commonly used to create a clear sense of progress and status. Entry tiers focus on welcome benefits, mid tiers offer improved deals and personalised promos, and top tiers lean into host attention and stronger privileges. Within a wider venue group, tiers can often carry across locations, so visits in different cities may support one overall status. Players especially value benefits that work in real time, such as fixed free bets on selected days or boosted point earning.\n\n<\/p>\n<br>\n<p>\nLoyalty rewards typically combine gaming value with lifestyle perks so the visit feels like a complete night out. On the gaming side, you may see chip vouchers, slots credits, or free bets on roulette and selected tables. On the lifestyle side, there can be bar offers, menu deals, priority access to events, or timed compliments. This balance matters because you can still benefit even when you play moderately but visit often for the atmosphere.\n\n<\/p>\n<br>\n<p>\nRegistration is usually done on-site at reception, where age and details are verified. The process is quick and the card is commonly active right away. Some venues may allow pre-filled details, but in-person ID checks remain the key step. After joining, it’s worth asking about “promo days” because schedules can vary and planning around them often delivers the biggest value.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration conditions\n<\/h4>\n\n <ul>\n            <li>• \n18+ and valid ID: identity check to activate membership.\n\n<\/li>\n            <li>• \nMember form: basic contact details for tailored offers.\n\n<\/li>\n            <li>• \nProgramme terms: rules for earning and spending rewards.\n\n<\/li>\n            <li>• \nCard issued: immediate activation and points tracking.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers and how to reach them \n<\/h4>\n\n <ul>\n            <li>• \nBronze (entry): join + first activity; welcome vouchers £90+.\n\n<\/li>\n            <li>• \nSilver: regular visits\/play; weekly coupons £5–£10 and boosted points.\n\n<\/li>\n            <li>• \nGold: consistent activity; personalised free bets £10–£20, event priority, stronger bar offers.\n\n<\/li>\n            <li>• \nPlatinum: high status; enhanced compliments, faster rewards, more tailored invites and gaming coupons.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCommon loyalty rewards\n<\/h4>\n\n <ul>\n            <li>• \nWelcome vouchers £90+: gaming and leisure vouchers on sign-up.\n\n<\/li>\n            <li>• \nFree bets £5–£20: selected-game promos on promo days.\n\n<\/li>\n            <li>• \nSlots credits £10–£30: weekly slot credit offers.\n\n<\/li>\n            <li>• \nFood & bar vouchers £5–£25: menu and bar value perks.\n\n<\/li>\n\t    <li>• \nBirthday bonus £10–£50: birthday gift for active members.\n\n<\/li>\n\t    <li>• \nMultiplier days x2–x3: faster point earning on set dates.\n\n<\/li>\n\t    <li>• \nEvent invites: access to themed nights and sport screenings.\n\n\n<\/li>\n        <\/ul><br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at  Rainbow Casino",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nRainbow Casino bonuses and special offers — free bets, jackpots, seasonal promos, and entertainment deals\n<\/h3>\n\n<p>\nRainbow Casino promotions are often designed to keep every area of the venue engaging, from slots and live tables to the bar-led social side of the night. Offers usually rotate through a calendar so there’s a reason to visit on different days of the week. Many promos are time- or game-specific, such as free bets limited to a set window or vouchers that activate once you meet a simple play condition. That structure helps the floor stay lively while giving players a clear way to plan visits around value.\n\n<\/p>\n<br>\n\n\n<p>\nA separate pillar is big-win potential through jackpots, which keeps excitement high even at modest stakes. Progressive and fixed jackpots create that “one spin could do it” feeling on any night. Table-game winnings can also be supported by promo mechanics, including stake vouchers, prize draws tied to evening sessions, or bonus chips on selected games. For groups, lifestyle-led deals can be just as appealing, such as late-bar offers, themed drink sets, and sport-night specials.\n\n<\/p>\n<br>\n<p>\nSeasonal activity often follows holidays, headline sporting events, and peak nightlife dates. During these periods, the focus shifts towards atmosphere with themed décor, special menus, extra draws, and bundled night-out packages that include gaming vouchers. This makes the visit feel like an occasion even if you’re not planning a long gaming session. These offers typically sit outside the loyalty system, meaning guests can join promos as one-offs without building long-term status.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonuses, wins, and offers \n<\/h4>\n\n <ul>\n            <li>• \nProgressive jackpots up to £20,000: big-win potential on selected slots.\n\n<\/li>\n            <li>• \nSlot jackpots up to £10,000: fixed maximum prizes on certain machines.\n\n<\/li>\n            <li>• \n£5 free bet happy hours: timed free bet for roulette or selected tables.\n\n<\/li>\n            <li>• \n£10 gaming voucher on promo days: activated after simple play conditions.\n\n<\/li>\n\t    <li>• \nTournament nights (e.g., £500–£2,000 prize pool): competitive slot or poker formats.\n\n<\/li>\n\t    <li>• \nGuest prize draws (£50–£500 prizes): ticket\/receipt-based draw mechanics.\n\n<\/li>\n\t    <li>• \nSport nights: match-linked vouchers and extras, often £5–£15 value.\n\n<\/li>\n\t    <li>• \nSeasonal specials: holiday bundles with £10–£30 vouchers and themed extras.\n\n<\/li>\n\t    <li>• \nBar specials: drink and late-menu deals, typical savings £5–£25.\n\n<\/li>\n\t    <li>• \nGroup night packages: hosted formats with game tuition and stake vouchers included.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular games at Rainbow Casino — what guests play most and why\n<\/h3>\n\n<p>\nRainbow Casino’s game range typically balances classic favourites with modern, fast-paced options. Live dealer tables sit at the heart of the experience because they deliver real energy, social interaction, and familiar rules. Roulette remains a top choice thanks to its simple entry point and the ability to play cautiously or boldly. Blackjack attracts those who enjoy decision-making and a sense of control, as basic strategy can influence outcomes over time. Poker adds a competitive angle between players and often becomes the reason to visit later in the evening.\n\n<\/p>\n<br>\n\n\n<p>\nSlots continue to draw crowds because of theme variety and the excitement of jackpot potential. For guests who prefer playing at their own pace, electronic roulette terminals offer a table-like feel without social pressure. Side bets and variants add extra momentum and keep rounds engaging. Many visitors mix formats, warming up on slots, moving to roulette, and finishing the night with cards.\n\n<\/p>\n<br>\n<p>\nFor newcomers, games with straightforward rules and quick cycles are often the easiest way to get comfortable. Experienced players frequently gravitate to dealer tables for atmosphere and rhythm. Most games allow flexible stakes, so different budgets can enjoy the floor without feeling out of place. If you visit as a group, games that allow quick discussion between rounds tend to be especially enjoyable.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPopular games\n\n\n<\/h4>\n\n <ul>\n            <li>• \nRoulette (American Roulette): classic casino feel, fast rounds, wide bet variety.\n\n<\/li>\n            <li>• \nElectronic roulette: terminal play with comfortable pacing and privacy.\n\n<\/li>\n            <li>• \nBlackjack: decision-led card play with a sense of control.\n\n<\/li>\n            <li>• \nThree Card Poker: quick poker variant ideal for short sessions.\n\n<\/li>\n\t    <li>• \nPunto Banco (Baccarat): simple betting choices and pure pace-driven excitement.\n\n<\/li>\n\t    <li>• \nSlots (including jackpots): themed variety, bonus rounds, big-win potential.\n\n<\/li>\n\t    <li>• \nPoker (cash games\/evening sessions): player-versus-player depth and strategy.\n\n<\/li>\n\t    <li>• \nMah Jong (where available): a distinctive option that adds variety.\n\n<\/li>\n\t    <li>• \nTombola Roulette (where available): an alternative roulette-style format with its own rhythm.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nStakes at Rainbow Casino — minimum and maximum bets by game\n<\/h3>\n\n<p>\nStake ranges at Rainbow Casino are generally built to suit different playing styles, from low-stake “for fun” sessions to higher-risk play with bigger amounts. This is useful because newcomers can start at the lowest limits while experienced players can choose tables that match their preferred stakes. Electronic terminals and slots often offer more flexible minimums, while live tables follow more traditional limits. Exact figures can vary by venue and time of day, but the table below reflects the most common ranges you’ll typically see.\n\n<\/p>\n<br>\n\n\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#DFBB4B; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette (live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£0.25 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£100<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette (electronic)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£0.20<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£200<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£2 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£1,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Three Card Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£2<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> £100<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Punto Banco (Baccarat)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£5<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£1,000<\/td>\n                <\/tr>\n\n    <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker (cash games)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Buy-in from £20<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Buy-in up to £250<\/td>\n                <\/tr>\n    <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£0.01<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£5<\/td>\n                <\/tr>\n    <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Progressive jackpot slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£0.50<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£10<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEntertainment and shows at Rainbow Casino — nightlife, regular events, and late-hour atmosphere\n<\/h3>\n\n<p>\nRainbow Casino is often experienced as more than a gaming venue, functioning as a nightlife destination where entertainment and play work together. Regular activity commonly centres on late-evening energy: sport on screens, themed nights, game-floor promos, and bar-led specials that keep the visit varied. This is convenient because you don’t have to choose between “going for drinks” and “going to a casino” — the night flows naturally in one place. As a result, even guests who gamble lightly can still enjoy a complete evening out.\n\n<\/p>\n<br>\n\n\n<p>\nA standout feature is often sport-focused nights, where key fixtures are shown on big screens and the bar supports the atmosphere with themed offers. These evenings tend to feel busy and social, with groups talking through the action and dipping into slots or electronic roulette between key moments. For those who want a stronger nightlife edge, themed parties tied to the calendar can add extra excitement, whether it’s holiday dates, major finals, or peak weekends. These nights typically bring more music, a livelier bar rhythm, and extra prize-led activity.\n\n<\/p>\n<br>\n<p>\nLate-night formats can lean into club-style music and a more social crowd closer to midnight, depending on the venue. Even where there isn’t a full nightclub, many guests treat the bar area as a lounge-style party space with music, conversation, and smooth transitions back onto the gaming floor. Added to this can be gaming-led events such as small tournaments, prize draws, and beginner-friendly hosted sessions. The result is a venue that feels different from visit to visit rather than repeating the same routine every time.\n\n<\/p><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAll entertainment options \n<\/h4>\n\n <ul>\n            <li>• \nLive sport screenings: big events on screens with a sports-bar feel.\n\n<\/li>\n            <li>• \nThemed nights: holiday dates, finals, and special weekends with extra activity.\n\n<\/li>\n            <li>• \nLate bar nights: music, late service, and drink\/menu specials.\n\n<\/li>\n            <li>• \nPrize draws and giveaways: guest prizes linked to simple participation rules.\n\n<\/li>\n\t    <li>• \nMini tournaments: slot competitions or poker formats where available.\n\n<\/li>\n\t    <li>• \nGroup night packages: hosted game tuition with added value included.\n\n<\/li>\n\t    <li>• \nLounge downtime: comfortable seating for breaks and social moments.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, dining, and downtime at Rainbow Casino — food, drinks, and a comfortable night out\n<\/h3>\n\n<p>\nDowntime at Rainbow Casino is often built around an “all-in-one” concept where you can come purely for drinks and atmosphere, then move into gaming naturally. The bar area frequently becomes the centre of the evening, making it easy to meet friends, settle in, and decide which games to try. Because the venue runs late, the bar tends to feel like a genuine part of nightlife rather than an add-on to the gaming floor. As the night progresses, the space becomes more animated, with sport on screens, active tables, and a club-like rhythm.\n\n<\/p>\n<br>\n\n\n<p>\nDining at this type of venue usually focuses on practical, satisfying options that suit an evening out. Expect hearty dishes, classic comfort food, shareable plates, and late-menu favourites that pair well with drinks. This matters because guests need a place to refuel between sessions without leaving the venue. The result is a seamless night where you can step out of the action for a meal and return to the floor without breaking the flow.\n\n<\/p>\n<br>\n<p>\nWhen it comes to hotels, Rainbow Casino typically relies on nearby accommodation rather than operating an on-site hotel. That creates flexibility: you can pick a stay that matches your budget and style while still being close enough for an easy return after late play. For weekend visitors, this works particularly well because casino time can sit alongside dinner plans and city exploring. Having several hotel options nearby helps shape the trip into whatever format you prefer.\n\n<\/p>\n<br>\n<p>\nOverall, downtime at Rainbow Casino feels like a blend of bar atmosphere, convenient dining, and flexible gaming moments you can drop into at any point. You can play intensively or keep it light with a few bets while prioritising social time and drinks. That balance makes the venue attractive both to committed players and to guests who simply want a lively, comfortable night spot.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAll relaxation spots\n<\/h4>\n\n <ul>\n            <li>• \nMain bar: drinks, social energy, sport on screens, comfortable seating.\n\n<\/li>\n            <li>• \nLate bar area: later-night rhythm, music-led atmosphere, extended service.\n\n<\/li>\n            <li>• \nRestaurant\/kitchen: full meals and late-menu options for gaming breaks.\n\n<\/li>\n            <li>• \nLounge seating: quiet-ish space to reset between rounds.\n\n<\/li>\n\t    <li>• \nNearby hotels: convenient overnight options for late visits.\n\n\n<\/li>\n        <\/ul><br>\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Is there a time limit on how long I can stay?",
+                    "answer": "Typically no fixed limit, as long as you follow house rules and responsible gambling standards.\n\n\n"
+                },
+                {
+                    "title": "Can I switch games and move between areas freely?",
+                    "answer": "Yes. The venue is designed for easy movement between slots, electronic zones, and live tables.\n\n\n"
+                },
+                {
+                    "title": "What if I lose a slot ticket\/voucher?",
+                    "answer": "Speak to staff immediately; they’ll explain the venue’s verification and recovery procedure if applicable.\n\n\n"
+                },
+                {
+                    "title": "Can I set limits or self-exclude to stay in control?",
+                    "answer": "Yes. Many venues support responsible gambling tools, including self-exclusion and service restrictions.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1777",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Rainbow Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-UK",
+            "name": "Английский",
+            "isDefault": true
+        }
+    ]
+}
